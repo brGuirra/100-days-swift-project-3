@@ -10,7 +10,7 @@ This app shows a list of images that user can view and share
 
 ## ⚙️ How it works
 
-The navigate between a list of images to see them. Its also possible
+The user navigates between a list of images to see them. It's also possible
 to share the image and save it in the device
 
 ## 📹 Video
