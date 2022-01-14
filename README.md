@@ -24,16 +24,8 @@ to share the image and save it in the device
 
 ## 🤓 What I learned
 
-- Table View
-- Image View
-- App bundle
-- FileManager
-- Typecasting
-- View Controller
-- Storyboard
-- Outlets
-- Auto Layout
-- UIImage
+* UIBarButtonItem
+* UIActivityViewController
 
 ## ⌨ How to use it
 
